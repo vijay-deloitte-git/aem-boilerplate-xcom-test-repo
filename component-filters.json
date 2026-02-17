@@ -35,7 +35,8 @@
       "columns",
       "fragment",
       "product-teaser",
-      "product-recommendations"
+      "product-recommendations",
+      "quote"
     ]
   },
   {
@@ -113,6 +114,7 @@
       "cards",
       "columns",
       "fragment",
+      "quote",
       "commerce-order-header",
       "commerce-order-status",
       "commerce-shipping-status",
@@ -150,7 +152,8 @@
       "cards",
       "columns",
       "fragment",
-      "commerce-search-order"
+      "commerce-search-order",
+      "quote"
     ]
   },
   {
@@ -305,7 +308,8 @@
       "cards",
       "columns",
       "fragment",
-      "commerce-search-order"
+      "commerce-search-order",
+      "quote"
     ]
   },
   {
